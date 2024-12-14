@@ -25,23 +25,20 @@
 
 <h3 align="left">Projects:</h3>
 🌟 Responsive Portfolio
-🌐 Live Demo
+🌐 Live Demo:
+Responsive Portfolio
+
 
 🔹 Tech Stack:
 
-Framework: React
-Styling: Tailwind CSS
-Functionality: EmailJS (Contact Form Integration)
+React
+Tailwind CSS
+EmailJS
 ✨ Key Highlights:
 
-Designed and built a fully responsive and aesthetically pleasing portfolio to showcase skills and achievements.
-Integrated a working contact form to allow potential clients and recruiters to connect effortlessly.
-Optimized for performance and seamless navigation, ensuring a delightful user experience across all devices.
-
-
-Designed and developed a responsive personal portfolio to showcase projects and skills.
-Implemented a fully functional contact form with EmailJS integration for seamless communication.
-Optimized for various devices, ensuring a consistent user experience across screens.
+Designed and developed a fully responsive portfolio to showcase my projects, skills, and contact information.
+Integrated a functional contact form using EmailJS for direct communication.
+Optimized for seamless navigation and responsiveness across all devices.
 2. Razorpay Clone
 🎨 Technologies Used: HTML, CSS, JavaScript
 🖼️ Preview:
