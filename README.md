@@ -27,31 +27,24 @@
 
 
 ### 🌟 **Responsive Portfolio**  
-🌐 **Live Demo**:  
-[Responsive Portfolio](https://react-portfolio-eight-livid.vercel.app/)  
-📂 **GitHub Repository**:  
-[Portfolio Code](https://github.com/yourusername/react-portfolio)  
+🌐 **Live Demo**:                                    [Responsive Portfolio](https://react-portfolio-eight-livid.vercel.app/)  
+📂 **GitHub Repository**:                            [Portfolio Code](https://github.com/yourusername/react-portfolio)  
 
 
 
-🔹 **Tech Stack**:  
-React, Tailwind CSS, EmailJS  
+🔹 **Tech Stack**:                                   React, Tailwind CSS, EmailJS  
 
 --
 ### 🏦 **Razorpay Clone**  
-📂 **GitHub Repository**:  
-[Razorpay Clone Code](https://github.com/yourusername/razorpay-clone)  
+📂 **GitHub Repository**:                             [Razorpay Clone Code](https://github.com/yourusername/razorpay-clone)  
 
-🔹 **Tech Stack**:  
-HTML, CSS, JavaScript  
+🔹 **Tech Stack**:                                     HTML, CSS, JavaScript  
 
 
 ### 📰 **Dynamic News Portal**  
-📂 **GitHub Repository**:  
-[News Portal Code](https://github.com/yourusername/dynamic-news-portal)  
+📂 **GitHub Repository**:                             [News Portal Code](https://github.com/yourusername/dynamic-news-portal)  
 
 
-🔹 **Tech Stack**:  
-HTML, CSS, JavaScript, News API  
+🔹 **Tech Stack**:                                      HTML, CSS, JavaScript, News API  
 
 
