@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **C/C++ DSA**
 
-- 👯 I’m learning **HTML,CSS,JAVA SCRIPT**
+- 👯 I’m learning **HTML,CSS,JAVA SCRIPT ,ReactJs,Tailwind Css ,NodeJs **
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/narendra-kumar-9b2223257/](https://www.linkedin.com/in/narendra-kumar-9b2223257/)
-
+- Check out my Personal Portfolio here [https://react-portfolio-eight-livid.vercel.app/](https://react-portfolio-eight-livid.vercel.app/)
 - 📫 How to reach me **jangidnarendra858@gmail.com**
 
 - ⚡ Fun fact **I am funny**
