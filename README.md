@@ -23,35 +23,40 @@
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Projects:</h3>
-🌟 Responsive Portfolio
-🌐 Live Demo:
-Responsive Portfolio <br>
+<h3 align="left">🚀 Projects::</h3>
 
-<br>
 
-🔹 Tech Stack:
-React, Tailwind CSS, EmailJS <br>
+### 🌟 **Responsive Portfolio**  
+🌐 **Live Demo**:  
+[Responsive Portfolio](https://react-portfolio-eight-livid.vercel.app/)  
+📂 **GitHub Repository**:  
+[Portfolio Code](https://github.com/yourusername/react-portfolio)  
 
-✨ Key Highlights:
+![Portfolio Preview](https://via.placeholder.com/600x300?text=Portfolio+Preview)  
 
-Designed and developed a fully responsive portfolio to showcase my projects, skills, and contact information.
-Integrated a functional contact form using EmailJS for direct communication.
-.
-2. Razorpay Clone
-🎨 Technologies Used: HTML, CSS, JavaScript
-🖼️ Preview:
+🔹 **Tech Stack**:  
+React, Tailwind CSS, EmailJS  
 
-Built a pixel-perfect, responsive clone of the Razorpay homepage.
-Ensured smooth animations, transitions, and mobile-first design principles.
-Focused on best practices for semantic HTML and CSS for scalability.
-3. Dynamic News Portal
-🎨 Technologies Used: HTML, CSS, JavaScript, News API
-🖼️ Preview:
+---
 
-Created a real-time news portal leveraging external APIs for live updates.
-Implemented features like category filtering, search functionality, and pagination.
-Focused on user-friendly design with intuitive navigation and responsive layouts.
+### 🏦 **Razorpay Clone**  
+📂 **GitHub Repository**:  
+[Razorpay Clone Code](https://github.com/yourusername/razorpay-clone)  
 
+![Razorpay Clone Preview](https://via.placeholder.com/600x300?text=Razorpay+Clone+Preview)  
+
+🔹 **Tech Stack**:  
+HTML, CSS, JavaScript  
+
+---
+
+### 📰 **Dynamic News Portal**  
+📂 **GitHub Repository**:  
+[News Portal Code](https://github.com/yourusername/dynamic-news-portal)  
+
+![News Portal Preview](https://via.placeholder.com/600x300?text=News+Portal+Preview)  
+
+🔹 **Tech Stack**:  
+HTML, CSS, JavaScript, News API  
 
 
