@@ -32,29 +32,24 @@
 📂 **GitHub Repository**:  
 [Portfolio Code](https://github.com/yourusername/react-portfolio)  
 
-![Portfolio Preview](https://via.placeholder.com/600x300?text=Portfolio+Preview)  
+
 
 🔹 **Tech Stack**:  
 React, Tailwind CSS, EmailJS  
 
----
-
+--
 ### 🏦 **Razorpay Clone**  
 📂 **GitHub Repository**:  
 [Razorpay Clone Code](https://github.com/yourusername/razorpay-clone)  
 
-![Razorpay Clone Preview](https://via.placeholder.com/600x300?text=Razorpay+Clone+Preview)  
-
 🔹 **Tech Stack**:  
 HTML, CSS, JavaScript  
 
----
 
 ### 📰 **Dynamic News Portal**  
 📂 **GitHub Repository**:  
 [News Portal Code](https://github.com/yourusername/dynamic-news-portal)  
 
-![News Portal Preview](https://via.placeholder.com/600x300?text=News+Portal+Preview)  
 
 🔹 **Tech Stack**:  
 HTML, CSS, JavaScript, News API  
