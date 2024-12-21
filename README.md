@@ -26,7 +26,7 @@
 <h3 align="left">🚀 Projects::</h3>
 
 ### 🌟 **Responsive Portfolio**  
-🌐 **Live Demo**:                                    [Responsive Portfolio]([https://react-portfolio-eight-livid.vercel.app/](https://react-portfolio-eight-livid.vercel.app/))  
+🌐 **Live Demo**:                                    [Responsive Portfolio]([https://react-portfolio-eight-livid.vercel.app/](https://react-portfolio-eight-livid.vercel.app/)  
 📂 **GitHub Repository**:                            [Portfolio Code](https://github.com/narendrakumar5264/Responsive-Reac-tPortfolio)  
 
 🔹 **Tech Stack**:                                   React, Tailwind CSS, EmailJS  
