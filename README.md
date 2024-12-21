@@ -37,6 +37,8 @@
 📂 **GitHub Repository**:                             [Razorpay Clone Code](https://github.com/narendrakumar5264/Razor-Pay-Clone)  
 
 🌐 **Live Demo**:                                    [Razorpay Clone](https://razor-pay-clone-gold.vercel.app/)  
+                                                     (Note: Some browsers might flag this link because the project closely mimics Razorpay for educational purposes. Rest assured, it’s completely safe and only a student demonstration!)
+
 🔹 **Tech Stack**:                                     HTML, CSS, JavaScript  
 
 ---
